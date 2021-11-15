@@ -1,0 +1,323 @@
+Id,Symptom
+1,Fetal Weight
+2,Catatonia
+3,Dystonia
+4,Athetosis
+5,Language Development Disorders
+6,Coma
+7,Pallor
+8,Purpura
+9,"Purpura, Thrombocytopenic, Idiopathic"
+10,Hemoglobinuria
+11,Trismus
+12,Facial Pain
+13,Pseudobulbar Palsy
+14,"Hearing Loss, Functional"
+15,"Hearing Loss, Mixed Conductive-Sensorineural"
+16,"Hearing Loss, Central"
+17,"Urinary Bladder, Neurogenic"
+18,Pelvic Pain
+19,Pseudophakia
+20,Anorexia
+21,Diarrhea
+22,Halitosis
+23,Anoxia
+24,Fetal Hypoxia
+25,Fever
+26,Dyspnea
+27,"Dyspnea, Paroxysmal"
+28,Feminization
+29,Body Weight
+30,"Obesity, Morbid"
+31,Eye Hemorrhage
+32,Hyperoxia
+33,Confusion
+34,"Jaundice, Obstructive"
+35,Striae Distensae
+36,"Apraxia, Ideomotor"
+37,Muscle Rigidity
+38,Tetany
+39,Gastroparesis
+40,Dysgeusia
+41,Hoarseness
+42,Dysmenorrhea
+43,Constipation
+44,Bulimia
+45,"Cardiac Output, Low"
+46,Overweight
+47,Obesity
+48,"Cardiac Output, High"
+49,Eye Manifestations
+50,Birth Weight
+51,Fetal Macrosomia
+52,Neurologic Manifestations
+53,Cerebrospinal Fluid Otorrhea
+54,Mouth Breathing
+55,Respiratory Aspiration
+56,Stupor
+57,"Purpura, Schoenlein-Henoch"
+58,"Purpura, Thrombotic Thrombocytopenic"
+59,Agnosia
+60,Sarcopenia
+61,Neuralgia
+62,"Pain, Referred"
+63,Respiratory Paralysis
+64,Vocal Cord Paralysis
+65,Paraparesis
+66,Anisocoria
+67,Scotoma
+68,"Angina, Unstable"
+69,"Angina Pectoris, Variant"
+70,Reticulocytosis
+71,Heartburn
+72,"Vomiting, Anticipatory"
+73,Apnea
+74,Weight Loss
+75,Emaciation
+76,Hot Flashes
+77,Gait Apraxia
+78,Gait Ataxia
+79,Susac Syndrome
+80,Dyslexia
+81,"Dyslexia, Acquired"
+82,Snoring
+83,Consciousness Disorders
+84,Pruritus
+85,"Purpura, Hyperglobulinemic"
+86,Lethargy
+87,Auditory Perceptual Disorders
+88,Polyuria
+89,"Urinary Bladder, Overactive"
+90,Urinoma
+91,Piriformis Muscle Syndrome
+92,"Hearing Loss, Bilateral"
+93,Olfaction Disorders
+94,Edema
+95,Fetal Distress
+96,Meningism
+97,Language Disorders
+98,Ataxia
+99,Mobility Limitation
+100,Dyskinesias
+101,Agraphia
+102,Sneezing
+103,Persistent Vegetative State
+104,Tinea Pedis
+105,"Amnesia, Anterograde"
+106,"Pain, Intractable"
+107,Hemiplegia
+108,"Reflex, Babinski"
+109,"Hearing Loss, Sensorineural"
+110,Usher Syndromes
+111,Hyperacusis
+112,Paresthesia
+113,"Blindness, Cortical"
+114,Aphonia
+115,Dysphonia
+116,Earache
+117,Chills
+118,Systolic Murmurs
+119,"Gait Disorders, Neurologic"
+120,Myoclonus
+121,Hypocapnia
+122,Articulation Disorders
+123,Dysarthria
+124,Livedo Reticularis
+125,Purpura Fulminans
+126,"Amnesia, Transient Global"
+127,Orthostatic Intolerance
+128,Neck Pain
+129,"Neuralgia, Postherpetic"
+130,"Hearing Loss, Conductive"
+131,Somatosensory Disorders
+132,"Vision, Low"
+133,Aerophagy
+134,"Akathisia, Drug-Induced"
+135,Communication Disorders
+136,Torticollis
+137,Primary Progressive Nonfluent Aphasia
+138,Delirium
+139,Cafe-au-Lait Spots
+140,Jaundice
+141,Oliguria
+142,Myotonia
+143,Back Pain
+144,Paralysis
+145,"Ophthalmoplegia, Chronic Progressive External"
+146,Paresis
+147,"Paraparesis, Spastic"
+148,Hearing Loss
+149,"Hearing Loss, High-Frequency"
+150,"Hearing Loss, Noise-Induced"
+151,Acute Coronary Syndrome
+152,Flank Pain
+153,Asthenia
+154,Infantile Apparent Life-Threatening Event
+155,Mental Fatigue
+156,Synkinesis
+157,Hypokinesia
+158,"Edema, Cardiac"
+159,Thinness
+160,Cerebrospinal Fluid Rhinorrhea
+161,Syncope
+162,"Amnesia, Retrograde"
+163,Gerstmann Syndrome
+164,Nocturia
+165,Muscle Spasticity
+166,Muscle Weakness
+167,Psychophysiologic Disorders
+168,Amblyopia
+169,Abdominal Pain
+170,Renal Colic
+171,Coprophagia
+172,Vomiting
+173,Cyanosis
+174,Weight Gain
+175,Tremor
+176,Hyperkinesis
+177,Hemoptysis
+178,Hyperventilation
+179,Mental Retardation
+180,Dysuria
+181,Albuminuria
+182,Spasm
+183,Metatarsalgia
+184,Brown-Sequard Syndrome
+185,Vision Disorders
+186,Amaurosis Fugax
+187,Sleep Disorders
+188,Hyperphagia
+189,Postoperative Nausea and Vomiting
+190,Cheyne-Stokes Respiration
+191,Hypothermia
+192,Chorea
+193,Body Weight Changes
+194,Respiratory Sounds
+195,Echolalia
+196,Skin Manifestations
+197,Necrolytic Migratory Erythema
+198,"Purpura, Thrombocytopenic"
+199,Muscle Hypotonia
+200,Hemifacial Spasm
+201,Facial Paralysis
+202,Ophthalmoplegia
+203,Quadriplegia
+204,Miosis
+205,Sensation Disorders
+206,"Hearing Loss, Sudden"
+207,Hemianopsia
+208,Voice Disorders
+209,Fever of Unknown Origin
+210,Tics
+211,Cerebellar Ataxia
+212,Space Motion Sickness
+213,Hypoventilation
+214,Unconsciousness
+215,Amnesia
+216,Korsakoff Syndrome
+217,Hypercalciuria
+218,Fasciculation
+219,"Urinary Incontinence, Urge"
+220,Myokymia
+221,Headache
+222,Hypesthesia
+223,Ageusia
+224,Oral Hemorrhage
+225,Flatulence
+226,Hiccup
+227,"Aging, Premature"
+228,Fatigue
+229,Neurobehavioral Manifestations
+230,Alien Hand Syndrome
+231,Eye Pain
+232,Aphasia
+233,Stuttering
+234,Learning Disorders
+235,Ecchymosis
+236,"Syncope, Vasovagal"
+237,Prosopagnosia
+238,Labor Pain
+239,Pupil Disorders
+240,"Hearing Loss, Unilateral"
+241,Taste Disorders
+242,Color Vision Defects
+243,Vertigo
+244,"Abdomen, Acute"
+245,Chest Pain
+246,"Pain, Postoperative"
+247,Gagging
+248,Cough
+249,Motion Sickness
+250,Speech Disorders
+251,"Aphasia, Conduction"
+252,Perceptual Disorders
+253,Phantom Limb
+254,Muscle Hypertonia
+255,Virilism
+256,Muscular Atrophy
+257,"Supranuclear Palsy, Progressive"
+258,Seizures
+259,Presbycusis
+260,Tinnitus
+261,Hyperalgesia
+262,Photophobia
+263,Sleep Deprivation
+264,Oral Manifestations
+265,Shoulder Pain
+266,Flushing
+267,Sweating Sickness
+268,Psychomotor Agitation
+269,Decerebrate State
+270,Hypercapnia
+271,Memory Disorders
+272,Waterhouse-Friderichsen Syndrome
+273,Hallucinations
+274,Psychomotor Disorders
+275,Muscle Cramp
+276,Proteinuria
+277,"Urinary Incontinence, Stress"
+278,Hirsutism
+279,Slit Ventricle Syndrome
+280,Horner Syndrome
+281,Dizziness
+282,Arthralgia
+283,Angina Pectoris
+284,Glossalgia
+285,Dyspepsia
+286,Encopresis
+287,Hyperemesis Gravidarum
+288,Hypergammaglobulinemia
+289,Apraxias
+290,Hydrops Fetalis
+291,"Alexia, Pure"
+292,Mutism
+293,Urinary Incontinence
+294,Pain
+295,Low Back Pain
+296,"Reflex, Abnormal"
+297,Eructation
+298,Nausea
+299,Morning Sickness
+300,Cachexia
+301,Heart Murmurs
+302,Intermittent Claudication
+303,Catalepsy
+304,Anomia
+305,"Aphasia, Broca"
+306,"Aphasia, Primary Progressive"
+307,"Aphasia, Wernicke"
+308,Illusions
+309,Prostatism
+310,Sciatica
+311,Paraplegia
+312,Tonic Pupil
+313,Hearing Disorders
+314,Deafness
+315,Deaf-Blind Disorders
+316,Hyperesthesia
+317,Blindness
+318,Diplopia
+319,Colic
+320,Toothache
+321,"Diarrhea, Infantile"
+322,Hematemesis
